@@ -1,0 +1,20 @@
+/*
+    Title: home.component.css
+    Author: Carl Logan
+    Date: 02/24/2023
+    Description: Loan App - Capstone Project.
+*/
+
+#calculations {
+  text-align: center;
+  width: 40%;
+  color: #222f5b;
+}
+
+#calculations h2 {
+  font-size: 25px;
+}
+
+#calculations p {
+  font-size: 40px;
+}

@@ -1,0 +1,27 @@
+/*
+    Title: styles.scss
+    Author: Carl Logan
+    Date: 02/24/2023
+    Description: Loan App - Capstone Project.
+*/
+
+@import './theme';
+
+html, body {
+  height: 100%;
+  background-color: #946b2d !important;
+
+}
+
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+.raven-blue {
+  color: #222f5b;
+}
+
+.raven-bronze {
+  color: #946b2d;
+}

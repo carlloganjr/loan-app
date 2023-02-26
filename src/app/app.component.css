@@ -1,0 +1,23 @@
+/*
+    Title: app.component.css
+    Author: Carl Logan
+    Date: 02/24/2023
+    Description: Loan App - Capstone Project.
+*/
+
+
+/* styling for the main container */
+.main-container {
+  padding-top: 25px;
+  width: 60%;
+  margin: 0 auto;
+}
+
+#nav {
+  color: #222f5b;
+  color: #fff !important;
+}
+
+mat-toolbar {
+  background-color: 	#5d5d5d !important;
+}
